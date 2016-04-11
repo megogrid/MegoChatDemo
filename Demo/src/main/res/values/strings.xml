@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Mego Chat Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--Api Keys Required Starts-->
+    <string name="google_api_key">AIzaSyCFZE0Z-54fCcH_9EwZpN0mU8Y0N5SUejM</string>
+    <string name="appId">SB1IUCRNT</string>
+    <string name="appSecret">AGB732A5J</string>
+    <string name="devId">3</string>
+    <string name="store">1</string>
+    <!--Api Keys Required Ends-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <!--  <string name="appId">FFDEF2PMR</string>
+    <string name="appSecret">UZA2J62HS</string>
+    <string name="devId">1</string>
+    <string name="store">1</string>-->
+
+ <!--   <string name="appId">W94C5FN8C</string>
+    <string name="appSecret">FSA7CB6RU</string>
+    <string name="devId">5</string>
+    <string name="store">1</string>-->
+</resources>

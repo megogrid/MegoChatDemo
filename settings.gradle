@@ -1,0 +1,1 @@
+include ':app'//, ':Emojicon-release', ':AuthenticationLayer-release', ':FacebookLib', ':google-play-services_lib', ':Volley', ':MegoUser-release', ':SocketProg-release', ':ChatApp-release'
